@@ -1,0 +1,1 @@
+# -MutationObserver-blur-video-img-extension1
